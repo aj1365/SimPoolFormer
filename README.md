@@ -1,7 +1,6 @@
 # SimPoolFormer: A two-stream vision transformer for hyperspectral image classification☆
 
-[Swalpa Kumar Roy](https://swalpa.github.io), [Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali),  
-[Jocelyn Chanussot](https://jocelyn-chanussot.net/), [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/), Ebrahim Ghaderpour, and Himan Shahabi
+[Swalpa Kumar Roy](https://swalpa.github.io), [Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali), [Jocelyn Chanussot](https://jocelyn-chanussot.net/), [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/), Ebrahim Ghaderpour, and Himan Shahabi
 
 
 <img src="model.png"/>

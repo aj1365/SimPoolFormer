@@ -1,9 +1,35 @@
-# SimPoolFormer
-SimPoolFormer: A Two-Stream Vision Transformer for Hyperspectral Image Classification
+# SimPoolFormer: A two-stream vision transformer for hyperspectral image classification☆
 
-# Data
-Data and codes will be avalible upon the acceptance of the paper!
+[Swalpa Kumar Roy](https://swalpa.github.io), [Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali),  
+[Jocelyn Chanussot] (https://jocelyn-chanussot.net/), [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/), Ebrahim Ghaderpour, and Himan Shahabi
 
-Part of the data is availabe for Pingan:
-https://drive.google.com/file/d/1uF0fXNFpcMZjcjdVtR8LHCtvI-rO8A0h/view?usp=drive_link
-https://drive.google.com/file/d/11pfaRy_a4_COIIL8Ynuqr8LIgaFaUT5B/view?usp=sharing
+
+<img src="model.jpg"/>
+___________
+
+
+Citation
+---------------------
+
+**Please kindly cite the paper if this code is useful and helpful for your research.**
+
+       @article{ROY2025101478,
+               title = {SimPoolFormer: A two-stream vision transformer for hyperspectral image classification},
+               author = {Ali Jamali and Swalpa Kumar Roy and Leila Hashemi Beni and Biswajeet Pradhan and Jonathan Li and Pedram Ghamisi},
+               journal = {Remote Sensing Applications: Society and Environment},
+               pages = {101478},
+               year = {2025},
+               issn = {2352-9385},
+               doi = {https://doi.org/10.1016/j.rsase.2025.101478},
+               url = {https://www.sciencedirect.com/science/article/pii/S235293852500031X},
+              }
+
+
+
+Acknowledgement
+---------------------
+SimPool is adopted from (https://github.com/billpsomas/simpool).
+
+## License
+
+Copyright (c) 2025 Ali Jamali. Released under the MIT License. See [LICENSE](LICENSE) for details.

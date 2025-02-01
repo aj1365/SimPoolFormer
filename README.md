@@ -14,7 +14,7 @@ Citation
 
        @article{ROY2025101478,
                title = {SimPoolFormer: A two-stream vision transformer for hyperspectral image classification},
-               author = {Ali Jamali and Swalpa Kumar Roy and Leila Hashemi Beni and Biswajeet Pradhan and Jonathan Li and Pedram Ghamisi},
+               author = {Swalpa Kumar Roy and Ali Jamali and Jocelyn Chanussot and Pedram Ghamisi and Ebrahim Ghaderpour and Himan Shahabi},
                journal = {Remote Sensing Applications: Society and Environment},
                pages = {101478},
                year = {2025},

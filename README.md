@@ -27,7 +27,7 @@ Citation
 
 Acknowledgement
 ---------------------
-SimPool is adopted from (https://github.com/billpsomas/simpool).
+SimPool is adapted from (https://github.com/billpsomas/simpool).
 
 ## License
 
